@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'CronosPro Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('./../fonts/CronosPro-Bold.eot');
+	src: local('CronosPro Bold'), url('./../fonts/CronosPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('./../fonts/CronosPro-Bold.woff2') format('woff2'),
+		url('./../fonts/CronosPro-Bold.woff') format('woff'),
+		url('./../fonts/CronosPro-Bold.ttf') format('truetype'),
+		url('./../fonts/CronosPro-Bold.svg#CronosProBold') format('svg');
+}
+
+@font-face {
+	font-family: 'CronosPro Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('./../fonts/CronosPro-Regular.eot');
+	src: local('CronosPro Regular'), url('./../fonts/CronosPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('./../fonts/CronosPro-Regular.woff2') format('woff2'),
+		url('./../fonts/CronosPro-Regular.woff') format('woff'),
+		url('./../fonts/CronosPro-Regular.ttf') format('truetype'),
+		url('./../fonts/CronosPro-Regular.svg#CronosProRegular') format('svg');
+}
